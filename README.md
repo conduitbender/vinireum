@@ -1,4 +1,4 @@
-<p style="text-align:center;"><img src="/images/logo.svg" width"300px" height="auto" alt="Logo"></p>
+<p style="text-align:center;"><img src="/images/logo.JPG" width"300px" height="auto" alt="Logo"></p>
 
 ### What is Vinireum?
 
